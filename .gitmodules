@@ -1,0 +1,3 @@
+[submodule "themes/alpha-dust-wd"]
+	path = themes/alpha-dust-wd
+	url = https://github.com/ldc4/hexo-theme-alpha-dust.git
